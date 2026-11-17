@@ -8,8 +8,8 @@ plugins:
 
 #-------------------------------
 # General Site Settings
-title: Site in Development
-description: "Hi I'm Caroline, and I'm a Data Scientist. Site under development. Come back soon. Please visit my Github & LinkedIn pages (or download my Resume) by using the links below!"
+title: Caroline Mimeault
+description: "Hi I'm Caroline, a biologist turned into a Data Scientist. This site is under development. It will eventually be my data science portfolio. Come back soon. Please visit my Github & LinkedIn pages (or download my Resume) by using the links below!"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
