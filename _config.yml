@@ -9,7 +9,7 @@ plugins:
 #-------------------------------
 # General Site Settings
 title: Caroline Mimeault
-description: "Hi I'm Caroline, a Biologist turned Data Scientist. This site is under development. It will eventually be my data science portfolio. Come back soon. Please visit my Github & LinkedIn pages (or download my Resume) by using the links below!"
+description: "Hi I'm Caroline, a Biologist turned Data Scientist. This site is under development. It will eventually be my data science portfolio. Come back soon. Please visit my Github & LinkedIn pages or (eventually) download my Resume by using the links below!"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
